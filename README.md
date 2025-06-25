@@ -60,7 +60,7 @@ To provide a clear and interactive dashboard that helps stakeholders:
 
 - `Accident_Analysis.pbix` (Power BI File)
 -  `US_Accident_March23` (Dataset Used)
-- (📥 [Download Full Power BI Dashboard (.pbix)]- [sha256:5f58c0dcbba4b8a431c9fdfeffea1a376a744ace65c9fbf66275865c18d586af]
+- (📥 [Download Full Power BI Dashboard (.pbix)]- [https://github.com/shrutijha2004/PRODIGY_DS_05/releases/tag/v1.0]
 
 ---
 
