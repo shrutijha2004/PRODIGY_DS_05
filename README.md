@@ -64,4 +64,7 @@ To provide a clear and interactive dashboard that helps stakeholders:
 ---
 
 ## 📷 Dashboard preview
-![Screenshot 2025-06-26 012802](https://github.com/user-attachments/assets/ccaf6b99-45a0-42bd-8bbb-56f311f6237e)
+
+![Screenshot 2025-06-26 012802](https://github.com/user-attachments/assets/4bb42133-a773-4d29-988a-9792d1840b1b)
+
+
