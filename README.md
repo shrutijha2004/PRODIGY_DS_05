@@ -60,6 +60,7 @@ To provide a clear and interactive dashboard that helps stakeholders:
 
 - `Accident_Analysis.pbix` (Power BI File)
 -  `US_Accident_March23` (Dataset Used)
+-  📥 [Download Full Power BI Dashboard (.pbix)](📥 [Download Full Power BI Dashboard (.pbix)](https://github.com/shruti-jha/us-accident-dashboard/releases/download/v1.0/US_Accidents_Dashboard.pbix))
 
 ---
 
